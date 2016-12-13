@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Persistencia</string>
+    <string name="app_usuario">Usuário</string>
+    <string name="app_senha">Senha</string>
+    <string name="app_continua">Continuar conectado</string>
+
+    <string name="app_login">Login</string>
+    <string name="title_activity_livros">LivrosActivity</string>
+</resources>
